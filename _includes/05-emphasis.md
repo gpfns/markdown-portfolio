@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* Itralis anta *
+** Bold anta **
+ 
+ _ Itralics ey le _
+ __ Bold two underscores __
+ 
+ __ idi bold babai kani _ idi italics _ adi matter __
