@@ -1,7 +1,7 @@
-* Itralis anta *
-** Bold anta **
+*Itralis anta*
+**Bold anta**
  
- _ Itralics ey le _
- __ Bold two underscores __
+ _Itralics ey le_
+ __Bold two underscores__
  
- __ idi bold babai kani _ idi italics _ adi matter __
+ __idi bold babai kani _idi italics_ adi matter__
